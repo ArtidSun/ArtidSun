@@ -1,6 +1,15 @@
 ### Hello everyone, I'm Sun👋
-* Studying at the school of Information Technology at King Mongkut's University of Technology Thonburi
-* Email: artid.vijitpanmai@mail.kmutt.ac.th
+* :books:Studying at the school of Information Technology 
+* :ant:King Mongkut's University of Technology Thonburi
+* :love_letter:Email: artid.vijitpanmai@mail.kmutt.ac.th
+### My Skill
+| Backend | Frontend | DevOP | Database|
+| --------- | --------- | ---------- | ---------- |
+|   JAVA   | HTML | Docker | Mysql |
+|   Spring Boot   | JavaScript| K8s | JSON |
+||||XML|
+
+
 <!--
 **ArtidSun/ArtidSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
