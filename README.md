@@ -1,4 +1,5 @@
 ### Hello everyone, I'm Sun👋
+###### ||king mongkut's university of technology thonburi||
 ###### Studying at the Faculty of Information Technology
 <!--
 **ArtidSun/ArtidSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
