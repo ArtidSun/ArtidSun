@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Sun👋
-###### ||king mongkut's university of technology thonburi||
-###### Studying at the Faculty of Information Technology
+* Studying at the school of Information Technology at King Mongkut's University of Technology Thonburi
+* Email: artid.vijitpanmai@mail.kmutt.ac.th
 <!--
 **ArtidSun/ArtidSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
