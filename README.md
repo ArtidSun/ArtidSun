@@ -7,7 +7,7 @@
 | --------- | --------- | ---------- | ---------- |
 |   JAVA   | HTML | Docker | MySQL |
 |   Spring Boot   | JavaScript| K8s | Oracle |
-||VeJS|||
+||VueJS|||
 ||TailWild|||
 
 <!--
