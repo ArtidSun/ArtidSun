@@ -5,9 +5,9 @@
 ### My Skill
 | Backend | Frontend | DevOP | Database|
 | --------- | --------- | ---------- | ---------- |
-|   JAVA   | HTML | Docker | Mysql |
-|   Spring Boot   | JavaScript| K8s | JSON |
-||||XML|
+|   JAVA   | HTML | Docker | MySQL |
+|   Spring Boot   | JavaScript| K8s | Oracle |
+|||||
 
 
 <!--
