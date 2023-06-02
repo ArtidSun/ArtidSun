@@ -7,8 +7,7 @@
 | --------- | --------- | ---------- | ---------- |
 |   Go   | HTML | Docker | MySQL |
 |   JAVA  | JavaScript| K8s | Oracle |
-||||postgreSQL|
-||VueJS|||
+||VueJS||postgreSQL|
 ||TailWild|||
 
 <!--
