@@ -6,7 +6,7 @@
 | Backend | Frontend | DevOP | Database|
 | --------- | --------- | ---------- | ---------- |
 |   Go   | HTML | Docker | MySQL |
-|   JAVA  | JavaScript| K8s | Oracle |
+|   JAVA  | JavaScript|| Oracle |
 ||VueJS||postgreSQL|
 ||TailWild|||
 
