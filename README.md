@@ -1,5 +1,5 @@
 ### Hello everyone, My name is Sun👋
-* :books:Graduate at the school of Information Technology 
+* :books:Graduated at the school of Information Technology 
 * :ant:King Mongkut's University of Technology Thonburi
 * :mortar_board: 6 month thrainee at KBTG as a Software engineering (Backend develop)
 * :computer: Now I am Backend Develop (Go lang) at Innovasive.co.th
