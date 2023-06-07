@@ -1,4 +1,4 @@
-### Hello everyone, I'm Sun👋
+### Hello everyone, My name is Sun👋
 * :books:Graduate at the school of Information Technology 
 * :ant:King Mongkut's University of Technology Thonburi
 * :mortar_board: 6 month thrainee at KBTG as a Software engineering (Backend develop)
