@@ -1,6 +1,8 @@
 ### Hello everyone, I'm Sun👋
 * :books:Studying at the school of Information Technology 
 * :ant:King Mongkut's University of Technology Thonburi
+* :mortar_board: 6 month thrainee at KBTG as a Software engineering (Backend develop)
+* :computer: Now I am Backend Develop (Go lang) at innovasive.co.th
 * :love_letter:Email: artid.vijitpanmai@mail.kmutt.ac.th
 ### My Skill
 | Backend | DevOP | Database|
