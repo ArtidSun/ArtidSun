@@ -3,12 +3,12 @@
 * :ant:King Mongkut's University of Technology Thonburi
 * :love_letter:Email: artid.vijitpanmai@mail.kmutt.ac.th
 ### My Skill
-| Backend | Frontend | DevOP | Database|
-| --------- | --------- | ---------- | ---------- |
-|   Go   | HTML | Docker | MySQL |
-|   JAVA  | JavaScript|| Oracle |
-||VueJS||postgreSQL|
-||TailWild|||
+| Backend | DevOP | Database|
+| --------- | ---------- | ---------- |
+|   Go    | Docker | MySQL |
+|   JAVA  || Oracle |
+|||postgreSQL|
+||||
 
 <!--
 **ArtidSun/ArtidSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
