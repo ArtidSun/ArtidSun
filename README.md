@@ -8,7 +8,7 @@
 | Backend | DevOP | Database|
 | --------- | ---------- | ---------- |
 |   Go    | Docker | MySQL |
-|   JAVA  || Oracle |
+||| Oracle |
 |||postgreSQL|
 ||||
 
